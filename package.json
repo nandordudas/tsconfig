@@ -1,7 +1,7 @@
 {
   "name": "@nandordudas/tsconfig",
   "type": "module",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "packageManager": "pnpm@9.1.4",
   "description": "A collection of TypeScript configurations, based on Total TypeScript's TSConfig",
   "author": "Nándor Dudás",
