@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "extends": [
+    "@tsconfig/strictest",
+    "@total-typescript/tsconfig/bundler/no-dom"
+  ],
+  "compilerOptions": {
+    "types": [
+      "@total-typescript/ts-reset"
+    ]
+  }
+}
